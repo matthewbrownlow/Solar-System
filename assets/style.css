@@ -8,3 +8,10 @@ body {
     overflow: hidden;
 }
 
+.container {
+    font-size: 10px;
+    width: 0em;
+    height: 40em;
+    position: relative;
+}
+
